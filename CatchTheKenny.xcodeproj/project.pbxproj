@@ -13,6 +13,7 @@
 		D18FAD6E279304FF00477472 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D18FAD6C279304FF00477472 /* Main.storyboard */; };
 		D18FAD70279304FF00477472 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D18FAD6F279304FF00477472 /* Assets.xcassets */; };
 		D18FAD73279304FF00477472 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D18FAD71279304FF00477472 /* LaunchScreen.storyboard */; };
+		D18FAD7D27930ADB00477472 /* KennyMcCormick.png in Resources */ = {isa = PBXBuildFile; fileRef = D18FAD7C27930ADB00477472 /* KennyMcCormick.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D18FAD6F279304FF00477472 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D18FAD72279304FF00477472 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D18FAD74279304FF00477472 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D18FAD7C27930ADB00477472 /* KennyMcCormick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = KennyMcCormick.png; path = ../../../../Downloads/KennyMcCormick.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D18FAD6A279304FF00477472 /* ViewController.swift */,
 				D18FAD6C279304FF00477472 /* Main.storyboard */,
 				D18FAD6F279304FF00477472 /* Assets.xcassets */,
+				D18FAD7C27930ADB00477472 /* KennyMcCormick.png */,
 				D18FAD71279304FF00477472 /* LaunchScreen.storyboard */,
 				D18FAD74279304FF00477472 /* Info.plist */,
 			);
@@ -128,6 +131,7 @@
 				D18FAD73279304FF00477472 /* LaunchScreen.storyboard in Resources */,
 				D18FAD70279304FF00477472 /* Assets.xcassets in Resources */,
 				D18FAD6E279304FF00477472 /* Main.storyboard in Resources */,
+				D18FAD7D27930ADB00477472 /* KennyMcCormick.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
